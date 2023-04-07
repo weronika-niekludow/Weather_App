@@ -18,10 +18,11 @@ function App() {
                 alt="weatherIcon"
               />
               <h3>Cloudy</h3>
-              <div className="temperature">
-                <h1> 15 C</h1>
-              </div>
             </div>
+            <div className="temperature">
+              <h1> 15 C</h1>
+            </div>
+
             {/* bottom description */}
           </div>
         </div>
