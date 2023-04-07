@@ -6,11 +6,11 @@ function App() {
     <div className="app" style={{ backgroundImage: `url(${cold})` }}>
       <div className="overlay">
         <div className="container">
-          <div className="sectionInputs">
+          <div className="section sectionInputs">
             <input type="text" name="city" placeholder="Enter City..." />{" "}
             <button> F </button>
           </div>
-          <div className="sectionTemperature">
+          <div className="section sectionTemperature">
             <div className="icon">
               <h3>London,GB</h3>
               <img
