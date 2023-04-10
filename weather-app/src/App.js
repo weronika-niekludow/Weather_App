@@ -1,5 +1,6 @@
 import hot from "./assets/hot.jpg";
 import cold from "./assets/cold.jpg";
+import Descriptions from "./assets/components/Descriptions";
 
 function App() {
   return (
@@ -22,9 +23,8 @@ function App() {
             <div className="temperature">
               <h1> 15 C</h1>
             </div>
-
-            {/* bottom description */}
           </div>
+          <Descriptions />
         </div>
       </div>
     </div>
