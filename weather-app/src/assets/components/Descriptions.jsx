@@ -10,7 +10,7 @@ function Descriptions() {
           <FaArrowDown />
           <small> min</small>
         </div>
-        <h2>32 C</h2>
+        <h2>32 °C</h2>
       </div>
 
       <div className="card">
@@ -18,7 +18,7 @@ function Descriptions() {
           <FaArrowDown />
           <small> min</small>
         </div>
-        <h2>32 C</h2>
+        <h2>32 °C</h2>
       </div>
 
       <div className="card">
@@ -26,7 +26,7 @@ function Descriptions() {
           <FaArrowDown />
           <small> min</small>
         </div>
-        <h2>32 C</h2>
+        <h2>32 °C</h2>
       </div>
 
       <div className="card">
@@ -34,7 +34,7 @@ function Descriptions() {
           <FaArrowDown />
           <small> min</small>
         </div>
-        <h2>32 C</h2>
+        <h2>32 °C</h2>
       </div>
     </div>
   );

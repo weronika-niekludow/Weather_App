@@ -28,3 +28,9 @@
 .descriptionCardIcon > small {
   text-transform: capitalize;
 }
+
+@media screen and (max-width: 1024px) {
+  .sectionDescriptions {
+    grid-template-columns: 1fr 1fr;
+  }
+}

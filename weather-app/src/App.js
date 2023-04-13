@@ -9,7 +9,7 @@ function App() {
         <div className="container">
           <div className="section sectionInputs">
             <input type="text" name="city" placeholder="Enter City..." />{" "}
-            <button> F </button>
+            <button> °F </button>
           </div>
           <div className="section sectionTemperature">
             <div className="icon">
@@ -23,7 +23,7 @@ function App() {
               <h3>Cloudy</h3>
             </div>
             <div className="temperature">
-              <h1> 15 C</h1>
+              <h1> 15 °C</h1>
             </div>
           </div>
           <Descriptions />
