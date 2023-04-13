@@ -17,7 +17,7 @@ function App() {
 
               <img
                 className="image"
-                src="https://pl.seaicons.com/wp-content/uploads/2022/07/Weather-Clouds-icon.png"
+                src="https://cdn-icons-png.flaticon.com/512/966/966386.png?w=740&t=st=1681402925~exp=1681403525~hmac=cd0a7542a4ad82dc2fb6e2484164b78a7a6279785b0d838fa33c7307234a728c"
                 alt="weatherIcon"
               />
               <h3>Cloudy</h3>
