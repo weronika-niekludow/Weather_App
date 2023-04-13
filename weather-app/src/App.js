@@ -14,7 +14,9 @@ function App() {
           <div className="section sectionTemperature">
             <div className="icon">
               <h3>London,GB</h3>
+
               <img
+                className="image"
                 src="https://pl.seaicons.com/wp-content/uploads/2022/07/Weather-Clouds-icon.png"
                 alt="weatherIcon"
               />

@@ -89,3 +89,7 @@
 .temperature > h1 {
   font-size: 60px;
 }
+
+.image {
+  width: 140px;
+}
